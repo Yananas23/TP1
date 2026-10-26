@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.AssemblyInfo.cs
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\bin\Debug\net10.0\VotePreferentiel.deps.json
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\bin\Debug\net10.0\VotePreferentiel.dll
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\bin\Debug\net10.0\VotePreferentiel.pdb
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.dll
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\obj\Debug\net10.0\refint\VotePreferentiel.dll
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.pdb
+C:\Users\User\Documents\Master_Cyber\M2\MicroTech\TP1\VotePreferentiel\obj\Debug\net10.0\ref\VotePreferentiel.dll
